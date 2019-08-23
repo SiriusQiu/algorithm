@@ -7,7 +7,7 @@ public class HashTest {
 
     @Test
     public void testPrime(){
-        System.out.println(nextPrime(3));
+        System.out.println(nextPrime(100));
 
     }
 }
